@@ -1,0 +1,19 @@
+# Python specific
+_pycache_/
+*.pyc
+*.egg-info/
+.env/
+venv/
+.ipynb_checkpoints/
+
+# NLTK data (if you downloaded it directly into the project folder)
+nltk_data/
+
+# Data files (if they are very large and you don't want to upload them to GitHub)
+# train_data.txt
+# test_data.txt
+# test_data_solution.txt
+
+# Operating System files
+.DS_Store
+Thumbs.db
